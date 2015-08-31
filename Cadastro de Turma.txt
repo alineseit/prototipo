@@ -1,0 +1,2 @@
+Sugestões:
+* remover a coluna de turma na listagem de avalições, já que todas as avaliações são da turma que está sendo visualizada.

@@ -1,0 +1,2 @@
+Sugestões:
+* remove a coluna de Código da Disciplina da listagem de turmas, já que todas as turmas são da disciplina que está sendo visualizada.

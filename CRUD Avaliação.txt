@@ -1,0 +1,2 @@
+Sugestão:
+* Remover o combo para selecionar a avaliação, já que serão exibidas apenas as notas da avaliação em questão.
