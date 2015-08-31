@@ -1,0 +1,4 @@
+Dúvidas:
+* Para que serve o botão de check (✓), já que a edição só pode ser realizada em uma tela separada?
+Sugestões:
+* Mudar o cabeçalho para: "Lista de disciplinas" ou "Visualização de disciplinas";
