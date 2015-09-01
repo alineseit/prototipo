@@ -1,0 +1,2 @@
+Sugestões:
+* remover a listagem de avaliações, já que uma turma pode ter varias avaliações, deixando esta listagem para a outra tela.
